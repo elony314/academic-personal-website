@@ -7,7 +7,7 @@ summary: ''
 authors:
 - Youngwoon Lee
 - Edward S. Hu
-- Zhengyu Yang
+- admin
 - Alex Yin
 - Joseph J. Lim
 tags:
@@ -29,6 +29,10 @@ image:
   focal_point: ''
   preview_only: false
 
+links:
+ - name: Website
+   url: 'https://clvrai.com/furniture'
+
 # Projects (optional).
 #   Associate this post with one or more of your projects.
 #   Simply enter your project's folder or file name without extension.
@@ -37,7 +41,7 @@ image:
 projects: []
 publishDate: '2020-12-15T06:38:21.430644Z'
 publication_types:
-- '2'
+- '3'
 abstract: The IKEA Furniture Assembly Environment is one of the first benchmarks for
   testing and accelerating the automation of complex manipulation tasks. The environment
   is designed to advance reinforcement learning from simple toy tasks to complex tasks

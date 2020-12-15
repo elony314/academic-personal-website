@@ -6,7 +6,7 @@ subtitle: ''
 summary: ''
 authors:
 - Zijian Hu
-- Zhengyu Yang
+- admin
 - Xuefeng Hu
 - Ram Nevatia
 author_notes:
