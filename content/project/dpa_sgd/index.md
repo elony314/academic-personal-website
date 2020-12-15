@@ -3,7 +3,7 @@
 
 title: "Decentralized Federated Multi-Task Learning and System Design"
 summary: "We designed a decentralized multi-task learning framework and a novel optimization algorithm to collaboratively train models over distributed devices by only sharing their gradient periodically"
-authors: ["Chaoyang He", "Tian Xie", "Zhengyu Yang", "Zijian Hu", "Shuai Xia"]
+authors: ["Chaoyang He", "Tian Xie", admin, "Zijian Hu", "Shuai Xia"]
 tags: ["Machine Learning", "Federated Learning", "Multi-task Learning"]
 categories: []
 date: 2019-05-03T00:00:00-08:00

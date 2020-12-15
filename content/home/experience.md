@@ -18,27 +18,50 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
+  title = "Undergraduate Research Assistant"
+  company = "IRIS Computer Vision Lab"
+  company_url = "https://sites.usc.edu/iris-cvlab/"
   location = "California"
-  date_start = "2017-01-01"
+  date_start = "2019-08-01"
   date_end = ""
   description = """
-  Responsibilities include:
-  
-  * Analysing
-  * Modelling
-  * Deploying
+  - Advised by Professor Ramakant Nevatia
+  - Investigated areas:
+    - Computer Vision
+    - Meta Learning
+    - Semi-Supervised Learning
+    - Low Shot Learning
+  - Projects:
+    - A Semi-Supervised Learning paper submitted to CVPR 2021
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Undergraduate Research Assistant"
+  company = "CLVR Lab"
+  company_url = "https://www.clvrai.com"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  date_start = "2019-02-01"
+  date_end = "2019-08-31"
+  description = """
+  - Advised by Professor Joseph Lim
+  - Investigated areas:
+    - Robot Learning
+    - Reinforcement Learning
+    - Learning From Demonstration
+  - Projects:
+    - *IKEA Furniture Assembly Environment for Long-Horizon Complex Manipulation Tasks*
+    - *To Follow or not to Follow: Selective Imitation Learning from Observation*
+  """
+
+[[experience]]
+  title = "Software Engineer Intern"
+  company = "Dell EMC"
+  company_url = "https://www.delltechnologies.com/en-us/index.htm"
+  location = "Shanghai"
+  date_start = "2016-05-01"
+  date_end = "2016-07-31"
+  description = """
+  Developed a server program to collect pedometer statistics and then ranked and displayed them in internal social accounts.
+  """
 
 +++
