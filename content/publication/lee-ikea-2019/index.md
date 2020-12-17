@@ -11,10 +11,10 @@ authors:
 - Alex Yin
 - Joseph J. Lim
 tags:
-- '"computer science - machine learning"'
-- '"computer science - artificial intelligence"'
-- '"computer science - computer vision and pattern recognition"'
-- '"computer science - robotics"'
+- 'machine learning'
+- 'artificial intelligence'
+- 'computer vision and pattern recognition'
+- 'robotics'
 categories: []
 date: '2019-11-01'
 lastmod: 2020-12-14T22:20:47-08:00
