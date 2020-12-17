@@ -65,8 +65,16 @@ subtitle = ""
  
  # CSS class.
  css_class = ""
+
+[content.archive]
+  enable = true
+  text = "See all"
+  link = "./publication"
 +++
 
-{{% callout note %}}
+<!-- {{% callout note %}}
 Quickly discover relevant content by [filtering publications](./publication/).
-{{% /callout %}}
+{{% /callout %}} -->
+
+<!-- {{< cta cta_text="Filter" cta_link="./publication/" cta_new_tab="false" >}} -->
+<!-- <a href="./publication/"><i class="fas fa-filter"></i></a> -->
