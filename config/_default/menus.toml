@@ -35,15 +35,15 @@
   url = "https://drive.google.com/file/d/1R8E55nRruEB4GlXyERxjUZEqrFx4F9se/view?usp=sharing"
   weight = 10
 
-[[main_right]]
-  name = "<i class=\"ai ai-google-scholar\" style=\"font-size: 1rem; line-height: 1.25\"></i>"
-  url = "https://scholar.google.com/citations?user=9K2O0TUAAAAJ&hl=en"
-  weight = 20
+# [[main_right]]
+#   name = "<i class=\"ai ai-google-scholar\" style=\"font-size: 1rem; line-height: 1.25\"></i>"
+#   url = "https://scholar.google.com/citations?user=9K2O0TUAAAAJ&hl=en"
+#   weight = 20
 
-[[main_right]]
-  name = "<i class=\"fab fa-github\" style=\"font-size: 1rem; line-height: 1.25\"></i>"
-  url = "https://github.com/elony314"
-  weight = 30
+# [[main_right]]
+#   name = "<i class=\"fab fa-github\" style=\"font-size: 1rem; line-height: 1.25\"></i>"
+#   url = "https://github.com/elony314"
+#   weight = 30
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/media/cv.pdf` and uncomment the lines below.
