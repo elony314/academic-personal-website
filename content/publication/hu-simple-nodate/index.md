@@ -1,7 +1,7 @@
 ---
 # Documentation: https://wowchemy.com/docs/managing-content/
 
-title: 'Semi-Supervised Learning Paper Submitted to CVPR 2021'
+title: 'Semi-Supervised Learning Paper Accepted by CVPR 2021'
 subtitle: ''
 summary: ''
 authors:
